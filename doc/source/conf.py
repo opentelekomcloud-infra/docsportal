@@ -19,7 +19,7 @@ extensions = [
 ]
 
 # openstackdocstheme options
-otcdocs_repo_name = 'opentelekomcloud-infra/docsportal'
+otcdocs_repo_name = 'docs/docsportal'
 
 # The suffix of source filenames.
 source_suffix = '.rst'

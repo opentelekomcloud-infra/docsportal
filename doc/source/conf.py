@@ -28,7 +28,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-copyright = u'2017-2021, OpenTelekomCloud Contributors'
+copyright = u'2017-2022, OpenTelekomCloud Contributors'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -58,6 +58,8 @@ html_favicon = '_static/favicon.ico'
 html_theme_options = {
     'show_other_versions': False,
     'sidebar_mode': 'toctree',
+    'site_name': 'Open Telekom Cloud DevOps Portal',
+    'disable_search': True,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

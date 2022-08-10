@@ -2,15 +2,11 @@
 Open Telekom Cloud DevOps Portal
 ================================
 
-.. navigator::
-   :class: navigator-container
-   :data: services.yaml
-   :link_type: umn
+Welcome to the DevOps portal of the Open Telekom Cloud Ecosystems Squad
 
 .. toctree::
    :hidden:
 
-   services
    developer
+   ecosystems
    links
-
